@@ -1,0 +1,29 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="theme-color" content="#101915"><meta name="description" content="Discover saunas and wellness across Ireland with SaunaMate."><title>SaunaMate — Your Sauna. Your Ritual. Your Mate.</title><link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin=""><link rel="stylesheet" href="styles.css"><style>
+/* Single-photo wellness sections */
+.ritual-panel{margin-top:30px}
+.ritual-subtitle{color:#e2b474;font-family:Georgia,serif;font-size:clamp(19px,2vw,24px);margin:0 0 14px}
+@media(max-width:760px){.ritual-panel{margin-top:24px}}
+</style></head>
+<body><header><a class="brand" href="#home"><span class="steam">♨</span> SaunaMate</a><nav aria-label="Main navigation"><a href="#explore">Explore</a><a href="#events">Events</a><a href="#wellness">Wellness</a><a href="https://saunamate-store.myshopify.com" target="_blank" rel="noopener noreferrer">Shop ↗</a></nav></header><main>
+<section class="hero" id="home"><div class="hero-content"><p class="eyebrow">IRELAND'S SAUNA & WELLNESS COMPANION</p><h1>Your Sauna.<br>Your Ritual.<br><em>Your Mate.</em></h1><p>Discover sauna experiences across Ireland, explore wellness rituals and shop the essentials.</p><a class="button" href="#explore">Explore Saunas →</a></div></section>
+<section id="explore" class="section"><p class="eyebrow">DISCOVER IRELAND</p><h2>Explore Saunas</h2><p>Discover sauna locations across Ireland. Search by venue or town, filter by county and tap a map pin for details. Please confirm opening hours and availability before travelling.</p><div class="filters"><input id="search" aria-label="Search saunas" placeholder="Search sauna or town..."><select id="county" aria-label="Filter county"><option value="">All counties</option></select></div><p id="count" class="muted" aria-live="polite">Loading sauna locations…</p><div class="map-toolbar"><h3>Sauna map</h3><button type="button" id="reset-map" class="secondary-button">Show all Ireland</button></div><div id="sauna-map" role="region" aria-label="Interactive map of sauna locations across Ireland"><p class="map-fallback">Loading map… The sauna list below is also available.</p></div><p class="map-note muted">Map tiles © OpenStreetMap contributors. Pins reflect the directory coordinates and may not be exact entrances.</p><h3 class="directory-heading">Sauna directory</h3><div id="sauna-grid" class="grid"></div></section>
+<section class="feature" id="events"><div><p class="eyebrow">COMING NEXT</p><h2>Events Across Ireland</h2><p>Sauna gatherings, sea swims, cold plunges and wellness experiences — all in one place. Verified event listings are coming soon.</p></div></section>
+<section id="wellness" class="section wellness-section">
+  <div class="wellness-heading"><p class="eyebrow">THE ART OF FEELING GOOD</p><h2>Find your ritual.</h2><p>Two rituals. Two simple guides. Find what feels right for you.</p></div>
+  <article id="cold-recovery" class="ritual-panel ritual-first">
+    <div class="ritual-photo"><img src="assets/cold-plunge-luxury.jpg" alt="Cold plunge beside a warmly lit coastal sauna" loading="lazy"></div>
+    <div class="ritual-copy"><p class="eyebrow">THE COLD RITUAL</p><h3>Cold &amp; Recovery</h3><p class="ritual-subtitle">Feel refreshed. Find your balance.</p><p class="ritual-intro">A moment to cool down, breathe and reconnect — at your own pace.</p>
+      <div class="ritual-steps"><div><span>01</span><p><strong>Pause.</strong> Hydrate and let your body cool naturally.</p></div><div><span>02</span><p><strong>Ease in.</strong> Fresh air or a lukewarm shower is a great start. Cold water is optional.</p></div><div><span>03</span><p><strong>Restore.</strong> Dry off, warm up gently and enjoy the calm.</p></div></div>
+      <details class="safety-details"><summary>Cold-water safety essentials</summary><p>Cold immersion can strain the heart and circulation. Never jump into unknown water, swim alone, or hold your breath or hyperventilate in water. If you have a heart or circulatory condition, are pregnant, or have medical concerns, seek medical advice first. Stop if you feel dizzy or unwell.</p></details>
+    </div>
+  </article>
+  <article id="calm-relaxation" class="ritual-panel ritual-reverse">
+    <div class="ritual-photo"><img src="assets/meditation-luxury.jpg" alt="Person meditating beside candles with a view of the Irish coast" loading="lazy"></div>
+    <div class="ritual-copy"><p class="eyebrow">THE CALM RITUAL</p><h3>Calm &amp; Relaxation</h3><p class="ritual-subtitle">Slow down. Stay a while.</p><p class="ritual-intro">You don't need an hour to find a little stillness.</p>
+      <div class="ritual-steps"><div><span>01</span><p><strong>Unplug.</strong> Put your phone away and find a comfortable place.</p></div><div><span>02</span><p><strong>Notice.</strong> Let your breathing settle naturally. No counting, no pressure.</p></div><div><span>03</span><p><strong>Carry it with you.</strong> Sip some water and return to your day slowly.</p></div></div>
+      <div class="ritual-quote">“Make space for the moments that make you feel like you.”</div>
+    </div>
+  </article>
+</section>
+<section class="shop"><p class="eyebrow">SHOP SAUNAMATE</p><h2>Essentials for your ritual</h2><p>Sauna accessories, post-sauna care and wellness products.</p><a class="button" href="https://saunamate-store.myshopify.com" target="_blank" rel="noopener noreferrer">Visit Our Shopify Store ↗</a></section></main><footer>© SaunaMate · Your Sauna. Your Ritual. Your Mate.</footer><script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script><script src="script.js"></script></body></html>
