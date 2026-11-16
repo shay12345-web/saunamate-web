@@ -564,5 +564,127 @@
     "bookingUrl": "https://restorewellness.ie/",
     "lat": 53.43511,
     "lon": -6.12419
+  },
+  {
+    "id": "axe-club-glendalough",
+    "name": "Axe Club Glendalough",
+    "address": "Axe Club, Brockagh, Glendalough, County Wicklow, A67 K3K6, Ireland",
+    "website": "https://www.axeclub.ie/wicklow/",
+    "bookingUrl": "https://www.axeclub.ie/book",
+    "lat": 53.00005,
+    "lon": -6.29726,
+    "locationAccuracy": "verified"
+  },
+  {
+    "id": "hot-rocks-grangecon",
+    "name": "Hot Rocks Sauna",
+    "address": "The Rocks, Grangecon, County Wicklow, Ireland",
+    "website": "https://www.hotrockssauna.ie/",
+    "bookingUrl": "https://www.hotrockssauna.ie/",
+    "lat": 52.9977831,
+    "lon": -6.7430567,
+    "locationAccuracy": "approximate"
+  },
+  {
+    "id": "seawater-saunas-bray",
+    "name": "Seawater Saunas",
+    "address": "Rooftop above Butler & Barry, Strand Road, Bray, County Wicklow, A98 N8N3, Ireland",
+    "website": "https://seawatersaunas.ie/",
+    "bookingUrl": "https://seawatersaunas.ie/sauna-booking/"
+  },
+  {
+    "id": "boatyard-sauna-wicklow",
+    "name": "The Boat Yard Sauna - Wicklow Harbour",
+    "address": "Wicklow Harbour, Corporation Murragh, Wicklow Town, County Wicklow, Ireland",
+    "website": "https://www.theboatyardsauna.io/",
+    "bookingUrl": "https://www.theboatyardsauna.io/"
+  },
+  {
+    "id": "an-sruthan-hawkstown",
+    "name": "An Sruthán Sauna",
+    "address": "Hawkstown Upper, County Wicklow, A67 CD99, Ireland",
+    "website": "https://ansruthansauna.ie/",
+    "bookingUrl": "https://ansruthansauna.ie/",
+    "lat": 52.9652567,
+    "lon": -6.0801046,
+    "locationAccuracy": "approximate"
+  },
+  {
+    "id": "wild-rover-newtown",
+    "name": "The Wild Rover Sauna",
+    "address": "Newtown GAA Club, Newtownmountkennedy, County Wicklow, A63 EK10, Ireland",
+    "website": "https://wildroversauna.ie/",
+    "bookingUrl": "https://wildroversauna.ie/",
+    "lat": 53.0895152,
+    "lon": -6.1110122,
+    "locationAccuracy": "approximate"
+  },
+  {
+    "id": "foxglen-donard",
+    "name": "Foxglen Outdoor Wellness",
+    "address": "Donard Lower, Donard, County Wicklow, W91 RY84, Ireland",
+    "website": "https://www.foxglen.ie/",
+    "bookingUrl": "https://www.foxglen.ie/",
+    "lat": 53.0223442,
+    "lon": -6.6130514,
+    "locationAccuracy": "approximate"
+  },
+  {
+    "id": "boatyard-sauna-arklow",
+    "name": "The Boat Yard Sauna - Arklow",
+    "address": "North Quay, Arklow Harbour, Arklow, County Wicklow, Ireland",
+    "website": "https://www.theboatyardsauna.io/",
+    "bookingUrl": "https://www.theboatyardsauna.io/",
+    "lat": 52.7959264,
+    "lon": -6.146382,
+    "locationAccuracy": "approximate"
+  },
+  {
+    "id": "reen-pier-sauna",
+    "name": "Reen Pier Sauna",
+    "address": "Reen Pier, Union Hall, County Cork, P81 KW53, Ireland",
+    "website": "https://reenpiersauna.ie/",
+    "bookingUrl": "https://reenpiersauna.ie/"
+  },
+  {
+    "id": "sliabh-liag-teelin",
+    "name": "Sliabh Liag Sauna - Teelin",
+    "address": "Teelin Pier, County Donegal, Ireland",
+    "website": "https://sliabhliagsauna.ie/",
+    "bookingUrl": "https://sliabhliagsauna.ie/pages/book-a-session"
+  },
+  {
+    "id": "sliabh-liag-killybegs",
+    "name": "Sliabh Liag Sauna - Killybegs",
+    "address": "Portnacross Pier, Killybegs, County Donegal, Ireland",
+    "website": "https://sliabhliagsauna.ie/",
+    "bookingUrl": "https://sliabhliagsauna.ie/products/killybegs"
+  },
+  {
+    "id": "sanas-the-airt",
+    "name": "Sánas at The Airt",
+    "address": "The Airt, Feothanach, Dingle, County Kerry, V92 PK10, Ireland",
+    "website": "https://www.airt.ie/sauna/",
+    "bookingUrl": "https://www.airt.ie/sauna/"
+  },
+  {
+    "id": "sea-view-sauna-shrove",
+    "name": "The Sea View Sauna - Shrove",
+    "address": "Stroove, Shrove, County Donegal, Ireland",
+    "website": "https://theseaviewsauna.ie/",
+    "bookingUrl": "https://theseaviewsauna.ie/book",
+    "lat": 55.2288807,
+    "lon": -6.9317125,
+    "locationAccuracy": "approximate"
+  },
+  {
+    "id": "sweathouse-baginbun",
+    "name": "Sweathouse - Baginbun",
+    "address": "Baginbun Beach, Fethard-on-Sea, County Wexford, Ireland",
+    "website": "https://www.sweathouse.ie/",
+    "bookingUrl": "https://www.sweathouse.ie/bookings.html",
+    "lat": 52.1767584,
+    "lon": -6.8300485,
+    "locationAccuracy": "approximate"
   }
 ]
