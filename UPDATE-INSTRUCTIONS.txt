@@ -1,0 +1,22 @@
+SaunaMate website update — interactive map and clickable wellness sections
+
+UPDATED FILES:
+- index.html
+- styles.css
+- script.js
+
+UNCHANGED FILES (keep these too):
+- saunas.json (65 sauna locations)
+- assets/sauna.jpg, assets/ice.jpg, assets/calm.jpg
+- README.md
+
+TO UPDATE YOUR LIVE GITHUB PAGES WEBSITE:
+1. Open your saunamate-web repository on GitHub.
+2. Select Add file > Upload files.
+3. Upload index.html, styles.css, script.js from this ZIP.
+4. GitHub should indicate that the existing files will be replaced.
+5. Commit changes to main.
+6. Wait 1-3 minutes for Pages to redeploy, then hard-refresh the website (Ctrl+Shift+R).
+
+The map uses Leaflet and OpenStreetMap tiles loaded over the internet. If these external services are blocked, the directory list remains usable.
+The sauna pins come from the existing saunas.json file and are not newly verified.

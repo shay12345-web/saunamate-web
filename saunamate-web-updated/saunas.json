@@ -1,0 +1,568 @@
+[
+  {
+    "id": "sauna-village-swords",
+    "bookingUrl": "https://www.thesaunavillage.com/products/1-hour-off-peak-premium-sauna-experience-the-sauna-village-swords",
+    "lat": 53.4547516,
+    "lon": -6.2183544,
+    "name": "The Sauna Village",
+    "address": "Pavilions Leisure Quarter, Barrysparks, Swords, County Dublin, Ireland",
+    "website": "https://www.thesaunavillage.com/"
+  },
+  {
+    "id": "sea-sauna-portrane",
+    "bookingUrl": "https://www.theseasauna.ie/service-page/60min-barrel-sauna-seat-1",
+    "lat": 53.4892578,
+    "lon": -6.097586,
+    "name": "The Sea Sauna",
+    "address": "Tower Bay Beach Car Park, Portrane, County Dublin, Ireland",
+    "website": "https://www.theseasauna.ie/"
+  },
+  {
+    "id": "sauna-donabate",
+    "lat": 53.478949,
+    "lon": -6.11525,
+    "name": "The Sauna Donabate",
+    "address": "Shoreline Hotel, Donabate, County Dublin, Ireland",
+    "website": "https://thesaunadonabate.ie/"
+  },
+  {
+    "id": "wood-fired-rush",
+    "bookingUrl": "https://thewoodfiredsauna.as.me/schedule/9ce4eace",
+    "lat": 53.5220444,
+    "lon": -6.0908956,
+    "name": "The Wood Fired Sauna",
+    "address": "North Beach Tourist Caravan Park, Rush, County Dublin, Ireland",
+    "website": "https://www.thewoodfiredsauna.ie/"
+  },
+  {
+    "id": "saunos-ballsbridge",
+    "bookingUrl": "https://wunderbook.link/saunos",
+    "lat": 53.3291947,
+    "lon": -6.2313316,
+    "name": "Saunos Ballsbridge",
+    "address": "Old Belvedere RFC, Ailesbury Grove, Ballsbridge, Dublin, Ireland",
+    "website": "https://saunos.ie/"
+  },
+  {
+    "id": "saunos-sandycove",
+    "bookingUrl": "https://wunderbook.link/saunossan",
+    "lat": 53.2859485,
+    "lon": -6.1155829,
+    "name": "Saunos Sandycove",
+    "address": "49 Sandycove Road, Sandycove, County Dublin, Ireland",
+    "website": "https://saunos.ie/"
+  },
+  {
+    "id": "blackrock-sauna-galway",
+    "bookingUrl": "https://www.blackrocksauna.ie/booking/",
+    "lat": 53.2562568,
+    "lon": -9.0922757,
+    "name": "Blackrock Sauna",
+    "address": "Blackrock Cottage, Salthill Promenade, Galway, County Galway, Ireland",
+    "website": "https://www.blackrocksauna.ie/"
+  },
+  {
+    "id": "driftwood-spiddal",
+    "lat": 53.2441182,
+    "lon": -9.305804,
+    "bookingUrl": "https://www.driftwoodsauna.ie/appointments-4",
+    "name": "Driftwood Sauna",
+    "address": "New Pier, An Spideal, County Galway, Ireland",
+    "website": "https://www.driftwoodsauna.ie/"
+  },
+  {
+    "id": "atlantic-cove-kerry",
+    "lat": 51.7696536,
+    "lon": -10.0994464,
+    "name": "Atlantic Cove Sauna",
+    "address": "Caherdaniel, County Kerry, Ireland",
+    "website": ""
+  },
+  {
+    "id": "fenit-lighthouse-sauna",
+    "lat": 52.2885048,
+    "lon": -9.8742813,
+    "name": "Fenit Lighthouse Sauna",
+    "address": "Fenit, County Kerry, Ireland",
+    "website": ""
+  },
+  {
+    "id": "black-barrel-cobh",
+    "lat": 51.8502284,
+    "lon": -8.2950649,
+    "name": "Black Barrel Sauna",
+    "address": "Cobh, County Cork, Ireland",
+    "website": ""
+  },
+  {
+    "id": "coastal-cabin-garryvoe",
+    "lat": 51.8802709,
+    "lon": -7.9908106,
+    "name": "Coastal Cabin Beach Sauna",
+    "address": "Garryvoe, County Cork, Ireland",
+    "website": ""
+  },
+  {
+    "id": "celtic-spanish-point",
+    "lat": 52.8456784,
+    "lon": -9.4373989,
+    "name": "Celtic Sauna Spanish Point",
+    "address": "Spanish Point, County Clare, Ireland",
+    "website": ""
+  },
+  {
+    "id": "salt-ember-bundoran",
+    "lat": 54.4788836,
+    "lon": -8.278252,
+    "name": "Salt and Ember Sauna",
+    "address": "Bundoran, County Donegal, Ireland",
+    "website": ""
+  },
+  {
+    "id": "swilly-rathmullan",
+    "lat": 55.093889,
+    "lon": -7.540278,
+    "name": "The Swilly Sauna",
+    "address": "Rathmullan, County Donegal, Ireland",
+    "website": ""
+  },
+  {
+    "id": "blaze-it-mullaghmore",
+    "lat": 54.4663889,
+    "lon": -8.448611,
+    "name": "Blaze It Sauna",
+    "address": "Mullaghmore, County Sligo, Ireland",
+    "website": ""
+  },
+  {
+    "id": "big-dipper-louisburgh",
+    "lat": 53.7635338,
+    "lon": -9.8084904,
+    "name": "Big Dipper",
+    "address": "Louisburgh, County Mayo, Ireland",
+    "website": ""
+  },
+  {
+    "id": "saltee-kilmore-quay",
+    "bookingUrl": "https://www.salteesauna.ie/book",
+    "lat": 52.1729654,
+    "lon": -6.5890655,
+    "name": "Saltee Sauna",
+    "address": "Kilmore Quay, County Wexford, Ireland",
+    "website": "https://www.salteesauna.ie/"
+  },
+  {
+    "id": "sol-sauna-carlow",
+    "lat": 52.845314,
+    "lon": -6.9234679,
+    "name": "Sol Sauna",
+    "address": "Strawhall Industrial Estate, Strawhall, Carlow, R93 RX88, Ireland",
+    "website": "https://solsauna.ie/"
+  },
+  {
+    "id": "sauna-castlerea",
+    "lat": 53.7615651,
+    "lon": -8.4857961,
+    "name": "Sauna Castlerea",
+    "address": "Castlerea, County Roscommon, Ireland",
+    "website": ""
+  },
+  {
+    "id": "ice-embers-armagh",
+    "lat": 54.2915262,
+    "lon": -6.7694282,
+    "name": "Ice & Embers Recovery Garden",
+    "address": "3 Madden Road, Armagh, BT60 3LN, Northern Ireland",
+    "bookingUrl": "https://wunderbook.link/IcenEmber",
+    "website": "https://www.iceandembersrecovery.com/"
+  },
+  {
+    "id": "sauna-shack-sperrins",
+    "lat": 54.6843878,
+    "lon": -7.2520988,
+    "name": "The Sauna Shack",
+    "address": "162 Glenpark Road, Omagh, County Tyrone, BT79 7SU, Northern Ireland",
+    "website": "https://thesaunashack.uk/"
+  },
+  {
+    "id": "hotbox-benone",
+    "bookingUrl": "https://bookasession.org/hotbox/l/benone",
+    "lat": 55.1807856,
+    "lon": -6.9292781,
+    "name": "HotBox Sea Sauna – Benone",
+    "address": "Benone, County Derry, Northern Ireland",
+    "website": "https://www.hotboxseasauna.com/"
+  },
+  {
+    "id": "hotbox-groomsport",
+    "bookingUrl": "https://bookasession.org/hotbox/l/groomsport",
+    "lat": 54.6775939,
+    "lon": -5.6193793,
+    "name": "HotBox Sea Sauna – Groomsport",
+    "address": "Groomsport, County Down, Northern Ireland",
+    "website": "https://www.hotboxseasauna.com/"
+  },
+  {
+    "id": "spruce-glencar",
+    "lat": 54.3405195,
+    "lon": -8.3676932,
+    "name": "Spruce Sauna at Glencar",
+    "address": "Largandoon, Glencar, County Leitrim, Ireland",
+    "website": ""
+  },
+  {
+    "id": "cathole-falls-laois",
+    "lat": 53.0904463,
+    "lon": -7.4551927,
+    "name": "Cathole Falls Sauna",
+    "address": "Catholes Falls, Ballyhuppahane, County Laois, Ireland",
+    "website": "https://www.mobilesaunas.ie/"
+  },
+  {
+    "id": "secret-garden-drogheda",
+    "lat": 53.7149877,
+    "lon": -6.3524183,
+    "name": "Secret Garden Sauna",
+    "address": "Drogheda, County Louth, Ireland",
+    "website": ""
+  },
+  {
+    "id": "hot-pod-clonea",
+    "bookingUrl": "https://www.thehotpod.ie/book-online",
+    "lat": 52.0943633,
+    "lon": -7.5462791,
+    "name": "The Hot Pod Clonea",
+    "address": "Clonea, County Waterford, Ireland",
+    "website": "https://www.thehotpod.ie/"
+  },
+  {
+    "id": "barn-sauna-limerick",
+    "lat": 52.666187,
+    "lon": -8.6844719,
+    "name": "The Barn Sauna",
+    "address": "Coonagh Cross, Limerick, County Limerick, Ireland",
+    "website": ""
+  },
+  {
+    "id": "brandon-bay-sauna",
+    "name": "Brandon Bay Sauna",
+    "address": "Fahamore, Maharees, Castlegregory, County Kerry, V92 A3Y6, Ireland",
+    "website": "https://www.brandonbaysauna.com/",
+    "bookingUrl": "https://www.brandonbaysauna.com/book-now",
+    "lat": 52.303245,
+    "lon": -10.0409675
+  },
+  {
+    "id": "acumeen-farm-sauna",
+    "name": "Acumeen Farm Sauna",
+    "address": "Glenteenassig Road, Castlegregory, County Kerry, Ireland",
+    "website": "https://acumeenfarm.ie/sauna",
+    "lat": 52.2170398,
+    "lon": -9.9975506
+  },
+  {
+    "id": "helios-floating-dun-laoghaire",
+    "bookingUrl": "https://heliossauna.ie/products/dun-laoghaire-floating-sauna",
+    "name": "Helios Floating Sauna – Dún Laoghaire",
+    "address": "Coal Harbour, Dún Laoghaire, County Dublin, Ireland",
+    "website": "https://heliossauna.ie/",
+    "lat": 53.296586,
+    "lon": -6.1430081
+  },
+  {
+    "id": "barrel-sauna-greystones",
+    "name": "The Barrel Sauna – Greystones",
+    "address": "The Boatyard, Beach Road, Greystones, County Wicklow, A63 R721, Ireland",
+    "website": "https://www.thebarrelsauna.ie/greystones",
+    "lat": 53.1497109,
+    "lon": -6.0658244
+  },
+  {
+    "id": "fad-saoil-greystones",
+    "name": "Fad Saoil Saunas – Greystones",
+    "address": "Rise at The Cove, Marine Road, Greystones, County Wicklow, Ireland",
+    "website": "https://www.fadsaoilsaunas.com/",
+    "bookingUrl": "https://fadsaoil.app/",
+    "lat": 53.1481168,
+    "lon": -6.0617294
+  },
+  {
+    "id": "firecracker-sauna-longford",
+    "name": "Firecracker Sauna",
+    "address": "Leebeen Park, Dunbeggan, Aughnacliffe, County Longford, N39 WK74, Ireland",
+    "website": "https://www.firecracker-sauna.ie/",
+    "bookingUrl": "https://www.firecracker-sauna.ie/",
+    "lat": 53.85225568333334,
+    "lon": -7.601193166666666
+  },
+  {
+    "id": "wood-fired-skerries",
+    "name": "The Wood Fired Sauna – Skerries",
+    "address": "Red Island, beside The Captains and The Springers, Skerries, County Dublin, K34 YR76, Ireland",
+    "website": "https://www.thewoodfiredsauna.ie/",
+    "bookingUrl": "https://www.thewoodfiredsauna.ie/bookings",
+    "lat": 53.5856375,
+    "lon": -6.1031497
+  },
+  {
+    "id": "sandycove-sauna-by-the-sea",
+    "name": "Sandycove Sauna by the Sea",
+    "address": "17 Sandycove Point, Sandycove, County Dublin, A96 Y165, Ireland",
+    "website": "https://sandycovesaunabythesea.ie/",
+    "bookingUrl": "https://sandycovesaunabythesea.ie/booking.html",
+    "lat": 53.2884945,
+    "lon": -6.1141227
+  },
+  {
+    "id": "slainte-saunas-sandymount",
+    "name": "Sláinte Saunas – Sandymount",
+    "address": "Behind Clanna Gael GAA Club, Sean Moore Road, Sandymount, Dublin 4, Ireland",
+    "website": "https://www.slaintesaunas.ie/",
+    "bookingUrl": "https://www.slaintesaunas.ie/pages/book-a-session-dublin-sauna",
+    "lat": 53.3374218,
+    "lon": -6.2143627
+  },
+  {
+    "id": "sallynoggin-saunas",
+    "name": "Sallynoggin Saunas",
+    "address": "Petersons House, Pearse Street, Sallynoggin, County Dublin, A96 PX22, Ireland",
+    "website": "https://sallynogginsaunas.ie/",
+    "bookingUrl": "https://sallynogginsaunas.ie/book-sauna-dublin/",
+    "lat": 53.2766487,
+    "lon": -6.1393096
+  },
+  {
+    "id": "hot-box-inchicore",
+    "name": "The Hot Box Sauna – Inchicore",
+    "address": "Goldenbridge Estate, Tyrconnell Road, Inchicore, Dublin 8, D08 EWK2, Ireland",
+    "website": "https://thehotboxsauna.ie/",
+    "bookingUrl": "https://thehotboxsauna.ie/locations/shared-sauna-village-inchicore",
+    "lat": 53.3356339,
+    "lon": -6.3244134
+  },
+  {
+    "id": "hotbox-bective-meath",
+    "name": "The Hot Box Sauna – Bective Mill",
+    "address": "Mill House, Bective, Navan, County Meath, C15 H519, Ireland",
+    "website": "https://thehotboxsauna.ie/",
+    "bookingUrl": "https://thehotboxsauna.ie/locations/bective-mill",
+    "lat": 53.58002,
+    "lon": -6.70412
+  },
+  {
+    "id": "hotbox-bolands-dublin",
+    "name": "The Hot Box Sauna – Boland’s Mills",
+    "address": "Barrow Street, Grand Canal Dock, Dublin 4, D04 KA9P, Ireland",
+    "website": "https://thehotboxsauna.ie/",
+    "bookingUrl": "https://thehotboxsauna.ie/locations",
+    "lat": 53.342024,
+    "lon": -6.237135
+  },
+  {
+    "id": "hotbox-carlingford",
+    "name": "The Hot Box Sauna – Carlingford",
+    "address": "Carlingford Marina, North Commons, Carlingford, County Louth, A91 DWP3, Ireland",
+    "website": "https://thehotboxsauna.ie/",
+    "bookingUrl": "https://thehotboxsauna.ie/locations/mixed-shared-sauna-carlingford",
+    "lat": 54.05169,
+    "lon": -6.19199
+  },
+  {
+    "id": "hotbox-cork-city",
+    "name": "The Hot Box Sauna – Cork City",
+    "address": "Victoria Road, Ballintemple, Cork, T12 FCN2, Ireland",
+    "website": "https://thehotboxsauna.ie/",
+    "bookingUrl": "https://thehotboxsauna.ie/locations/shared-sauna-cork",
+    "lat": 51.8971,
+    "lon": -8.4591
+  },
+  {
+    "id": "hotbox-graiguenamanagh",
+    "name": "The Hot Box Sauna – Graiguenamanagh",
+    "address": "The Quay, Graiguenamanagh–Tinnahinch, County Kilkenny, R95 X635, Ireland",
+    "website": "https://thehotboxsauna.ie/",
+    "bookingUrl": "https://thehotboxsauna.ie/locations/shared-sauna-graiguenamanagh",
+    "lat": 52.53868,
+    "lon": -6.95277
+  },
+  {
+    "id": "hotbox-killiney-beach",
+    "name": "The Hot Box Sauna – Killiney Beach",
+    "address": "The White Cottage, Killiney Beach, County Dublin, A96 KXE6, Ireland",
+    "website": "https://thehotboxsauna.ie/",
+    "bookingUrl": "https://thehotboxsauna.ie/locations/killiney-beach",
+    "lat": 53.261188,
+    "lon": -6.110812
+  },
+  {
+    "id": "hotbox-rosses-point",
+    "name": "The Hot Box Sauna – Rosses Point",
+    "address": "Deadman’s Point, Rosses Point, County Sligo, F91 E778, Ireland",
+    "website": "https://thehotboxsauna.ie/",
+    "bookingUrl": "https://thehotboxsauna.ie/locations/shared-sauna-sligo",
+    "lat": 54.3067,
+    "lon": -8.5766
+  },
+  {
+    "id": "helios-bray-rooftop",
+    "name": "Helios Sauna – Bray Rooftop",
+    "address": "Above Platform Pizza, 6 Strand Road, Bray, County Wicklow, Ireland",
+    "website": "https://heliossauna.ie/",
+    "bookingUrl": "https://heliossauna.ie/products/bray-rooftop",
+    "lat": 53.20507,
+    "lon": -6.10026
+  },
+  {
+    "id": "helios-rosslare",
+    "name": "Helios Sauna – Rosslare",
+    "address": "Rosslare Strand, County Wexford, Y35 EA24, Ireland",
+    "website": "https://heliossauna.ie/",
+    "bookingUrl": "https://heliossauna.ie/products/wexford",
+    "lat": 52.27226,
+    "lon": -6.38582
+  },
+  {
+    "id": "heat-shack-ballyrisode",
+    "name": "The Heat Shack Sauna",
+    "address": "Ballyrisode Beach, Toormore Bay, near Schull, County Cork, Ireland",
+    "website": "https://bookwhen.com/theheatshack",
+    "bookingUrl": "https://bookwhen.com/theheatshack",
+    "lat": 51.511611,
+    "lon": -9.661804
+  },
+  {
+    "id": "sauna-fiain-renville",
+    "name": "Sauna Fiáin",
+    "address": "Renville Pier, Oranmore, County Galway, Ireland",
+    "website": "https://saunafiain.com/",
+    "bookingUrl": "https://saunafiain.com/book/",
+    "lat": 53.2439,
+    "lon": -8.96733
+  },
+  {
+    "id": "sauna-sasta-dunmoran",
+    "name": "Sauna Sásta",
+    "address": "Dunmoran Strand, Skreen, County Sligo, Ireland",
+    "website": "https://saunasasta.ie/",
+    "bookingUrl": "https://app.acuityscheduling.com/schedule/7b56b81e",
+    "lat": 54.2638,
+    "lon": -8.7271
+  },
+  {
+    "id": "suaimhneas-whitestrand",
+    "name": "Sauna Suaimhneas – Whitestrand",
+    "address": "White Strand, Miltown Malbay, County Clare, Ireland",
+    "website": "https://www.saunasuaimhneas.com/",
+    "bookingUrl": "https://www.saunasuaimhneas.com/bookings",
+    "lat": 52.8681,
+    "lon": -9.4274
+  },
+  {
+    "id": "suaimhneas-lahinch",
+    "name": "Sauna Suaimhneas – Lahinch",
+    "address": "Lahinch Beach, Lahinch, County Clare, Ireland",
+    "website": "https://www.saunasuaimhneas.com/",
+    "bookingUrl": "https://www.saunasuaimhneas.com/bookings",
+    "lat": 52.93522,
+    "lon": -9.3502
+  },
+  {
+    "id": "suaimhneas-clahane",
+    "name": "Sauna Suaimhneas – Clahane",
+    "address": "Clahane Shore, Liscannor, County Clare, Ireland",
+    "website": "https://www.saunasuaimhneas.com/",
+    "bookingUrl": "https://www.saunasuaimhneas.com/bookings",
+    "lat": 52.9324,
+    "lon": -9.4216
+  },
+  {
+    "id": "sabhna-keel",
+    "name": "Sabhna Saunas – Keel Beach",
+    "address": "Keel Beach, Achill Island, County Mayo, Ireland",
+    "website": "https://sabhna.ie/",
+    "bookingUrl": "https://sabhna.ie/pages/booking",
+    "lat": 53.9728,
+    "lon": -10.0767
+  },
+  {
+    "id": "sabhna-dugort",
+    "name": "Sabhna Saunas – Dugort",
+    "address": "Silver Strand, Dugort, Achill Island, County Mayo, Ireland",
+    "website": "https://sabhna.ie/",
+    "bookingUrl": "https://sabhna.ie/pages/booking",
+    "lat": 54.0124,
+    "lon": -10.0214
+  },
+  {
+    "id": "sabhna-keem",
+    "name": "Sabhna Saunas – Keem Bay",
+    "address": "Keem Bay, Achill Island, County Mayo, Ireland",
+    "website": "https://sabhna.ie/",
+    "bookingUrl": "https://sabhna.ie/pages/booking",
+    "lat": 53.9675,
+    "lon": -10.19286
+  },
+  {
+    "id": "sabhna-westport",
+    "name": "Sabhna Saunas – Westport Estate",
+    "address": "Westport Estate, Westport, County Mayo, Ireland",
+    "website": "https://sabhna.ie/",
+    "bookingUrl": "https://sabhna.ie/collections/copilot-appointments",
+    "lat": 53.80064,
+    "lon": -9.53554
+  },
+  {
+    "id": "sona-ventry-kerry",
+    "name": "Sona Sauna – Ventry",
+    "address": "Ceann Trá Beach, Ventry, Dingle Peninsula, County Kerry, Ireland",
+    "website": "https://www.sonasauna.ie/",
+    "bookingUrl": "https://sonasauna.as.me/schedule/1bb05429",
+    "lat": 52.1328,
+    "lon": -10.3633
+  },
+  {
+    "id": "skellig-cuas-crom",
+    "name": "Skellig Sauna – Cuas Crom",
+    "address": "Cuas Crom Beach, near Cahersiveen, County Kerry, Ireland",
+    "website": "https://www.skelligsauna.ie/",
+    "bookingUrl": "https://bookwhen.com/skelligsauna",
+    "lat": 51.965,
+    "lon": -10.2648
+  },
+  {
+    "id": "skellig-st-finians",
+    "name": "Skellig Sauna – St Finian’s Bay",
+    "address": "St Finian’s Bay, Rathkieran, County Kerry, Ireland",
+    "website": "https://www.skelligsauna.ie/",
+    "bookingUrl": "https://bookwhen.com/skelligsauna",
+    "lat": 51.8462,
+    "lon": -10.3365
+  },
+  {
+    "id": "skellig-ballinskelligs",
+    "name": "Skellig Sauna – Ballinskelligs Beach",
+    "address": "Ballinskelligs Beach, Ballinskelligs, County Kerry, Ireland",
+    "website": "https://www.skelligsauna.ie/",
+    "bookingUrl": "https://bookwhen.com/skelligsauna",
+    "lat": 51.8213,
+    "lon": -10.2729
+  },
+  {
+    "id": "mercury-sauna-portmarnock",
+    "name": "Mercury Sauna – Portmarnock",
+    "address": "Portmarnock Beach North Car Park, Strand Road, Portmarnock, County Dublin, Ireland",
+    "website": "https://www.mercurysauna.com/",
+    "bookingUrl": "https://www.mercurysauna.com/book",
+    "lat": 53.429011,
+    "lon": -6.126165
+  },
+  {
+    "id": "restore-wellness-portmarnock",
+    "name": "Restore Wellness – Portmarnock",
+    "address": "White Sands Hotel, Coast Road, Portmarnock, County Dublin, Ireland",
+    "website": "https://restorewellness.ie/",
+    "bookingUrl": "https://restorewellness.ie/",
+    "lat": 53.43511,
+    "lon": -6.12419
+  }
+]
