@@ -76,7 +76,7 @@
     "lon": -10.0994464,
     "name": "Atlantic Cove Sauna",
     "address": "Caherdaniel, County Kerry, Ireland",
-    "website": ""
+    "website": "https://www.atlanticcovesauna.ie/"
   },
   {
     "id": "fenit-lighthouse-sauna",
@@ -84,7 +84,8 @@
     "lon": -9.8742813,
     "name": "Fenit Lighthouse Sauna",
     "address": "Fenit, County Kerry, Ireland",
-    "website": ""
+    "website": "https://app.acuityscheduling.com/schedule/11088c1f",
+    "bookingUrl": "https://app.acuityscheduling.com/schedule/11088c1f"
   },
   {
     "id": "black-barrel-cobh",
@@ -92,7 +93,8 @@
     "lon": -8.2950649,
     "name": "Black Barrel Sauna",
     "address": "Cobh, County Cork, Ireland",
-    "website": ""
+    "website": "https://bookwhen.com/blackbarrelsauna",
+    "bookingUrl": "https://bookwhen.com/blackbarrelsauna"
   },
   {
     "id": "coastal-cabin-garryvoe",
@@ -100,7 +102,7 @@
     "lon": -7.9908106,
     "name": "Coastal Cabin Beach Sauna",
     "address": "Garryvoe, County Cork, Ireland",
-    "website": ""
+    "website": "https://coastalcabin.ie/"
   },
   {
     "id": "celtic-spanish-point",
@@ -108,7 +110,7 @@
     "lon": -9.4373989,
     "name": "Celtic Sauna Spanish Point",
     "address": "Spanish Point, County Clare, Ireland",
-    "website": ""
+    "website": "https://www.celticsauna.ie/"
   },
   {
     "id": "salt-ember-bundoran",
@@ -132,7 +134,8 @@
     "lon": -8.448611,
     "name": "Blaze It Sauna",
     "address": "Mullaghmore, County Sligo, Ireland",
-    "website": ""
+    "website": "https://booking.page/en/company/page/blazeitsauna",
+    "bookingUrl": "https://booking.page/en/company/page/blazeitsauna"
   },
   {
     "id": "big-dipper-louisburgh",
@@ -140,7 +143,7 @@
     "lon": -9.8084904,
     "name": "Big Dipper",
     "address": "Louisburgh, County Mayo, Ireland",
-    "website": ""
+    "website": "https://bigstyle.ie/mayo/bigdipper-mayo/"
   },
   {
     "id": "saltee-kilmore-quay",
@@ -165,7 +168,8 @@
     "lon": -8.4857961,
     "name": "Sauna Castlerea",
     "address": "Castlerea, County Roscommon, Ireland",
-    "website": ""
+    "website": "https://bookwhen.com/saunacastlerea",
+    "bookingUrl": "https://bookwhen.com/saunacastlerea"
   },
   {
     "id": "ice-embers-armagh",
@@ -224,7 +228,7 @@
     "lon": -6.3524183,
     "name": "Secret Garden Sauna",
     "address": "Drogheda, County Louth, Ireland",
-    "website": ""
+    "website": "https://secretgardensauna.ie/"
   },
   {
     "id": "hot-pod-clonea",
