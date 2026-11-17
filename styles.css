@@ -36,3 +36,27 @@
 .ritual-back{display:inline-block;margin-top:25px;color:#e2b474;font-size:14px;text-decoration:none;border-bottom:1px solid #e2b474}
 @media(max-width:760px){.luxury-tiles,.ritual-panel{grid-template-columns:1fr}.luxury-tile{height:390px}.ritual-panel{margin-top:42px}.ritual-photo{min-height:300px;height:320px}.ritual-reverse .ritual-photo{order:0}.ritual-reverse .ritual-copy{order:1}}
 @media(prefers-reduced-motion:reduce){.luxury-tile img{transition:none}}
+
+/* Collapsible SaunaMate directory */
+.directory-details {
+  margin-top: 24px;
+  border: 1px solid rgba(16, 80, 55, 0.2);
+  border-radius: 16px;
+  overflow: hidden;
+}
+
+.directory-details summary {
+  cursor: pointer;
+  padding: 20px 24px;
+  font-weight: 700;
+  color: #124b38;
+  background: #f1f7f3;
+}
+
+.directory-details summary:hover {
+  background: #e4f0e8;
+}
+
+.directory-details .grid {
+  padding: 20px;
+}
