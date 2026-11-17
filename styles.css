@@ -128,3 +128,44 @@ details.directory-details > summary:hover {
 details.directory-details > summary::-webkit-details-marker {
   display: none;
 }
+
+/* Prominent SaunaMate directory button */
+details.directory-details > summary {
+  display: flex !important;
+  width: fit-content !important;
+  max-width: 100%;
+  box-sizing: border-box;
+  align-items: center;
+  justify-content: center;
+  gap: 12px;
+  padding: 18px 30px !important;
+  background: #075C46 !important;
+  color: #FFFFFF !important;
+  border: 2px solid #D4B783 !important;
+  border-radius: 14px !important;
+  box-shadow: 0 5px 16px rgba(0, 45, 32, 0.25);
+  font-size: 16px !important;
+  font-weight: 800 !important;
+  text-align: center;
+  cursor: pointer;
+  list-style: none;
+}
+
+details.directory-details > summary::after {
+  content: "⌄";
+  font-size: 22px;
+  color: #D4B783;
+}
+
+details.directory-details[open] > summary::after {
+  content: "⌃";
+}
+
+details.directory-details > summary:hover {
+  background: #034735 !important;
+  transform: translateY(-2px);
+}
+
+details.directory-details > summary::-webkit-details-marker {
+  display: none;
+}
