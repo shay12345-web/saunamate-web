@@ -690,5 +690,15 @@
     "lat": 52.1767584,
     "lon": -6.8300485,
     "locationAccuracy": "approximate"
+  },
+  {
+    "id": "beacon-sauna-garrylucas",
+    "name": "The Beacon Sauna",
+    "address": "West car park, Garrylucas Beach, Garrettstown, Kinsale, County Cork, Ireland",
+    "website": "https://beaconsauna.ie/",
+    "bookingUrl": "https://bookasession.org/beaconsauna",
+    "lat": 51.6385,
+    "lon": -8.5606,
+    "locationAccuracy": "approximate"
   }
 ]
