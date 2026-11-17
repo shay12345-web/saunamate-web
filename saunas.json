@@ -700,5 +700,12 @@
     "lat": 51.6385,
     "lon": -8.5606,
     "locationAccuracy": "approximate"
+  },
+  {
+    "id": "cneasu-sauna-garrylough",
+    "name": "Cneasú Sauna",
+    "address": "Garrylough Lower, County Wexford, Y35 C670, Ireland",
+    "website": "https://www.cneasusauna.ie/",
+    "bookingUrl": "https://app.acuityscheduling.com/schedule/e8737e83"
   }
 ]
