@@ -860,5 +860,52 @@
     "lat": 54.34,
     "lon": -7.644,
     "locationAccuracy": "approximate - town/venue area; exact entrance not independently confirmed"
+  },
+  {
+    "id": "hidden-garden-warrenpoint",
+    "name": "The Hidden Garden - Warrenpoint",
+    "address": "Rath Road, Warrenpoint, County Down, BT34 3RU, Northern Ireland",
+    "website": "https://thehiddengarden.net/",
+    "bookingUrl": "https://thehiddengarden.net/products/hidden-garden-sauna-warrenpoint",
+    "lat": 54.115,
+    "lon": -6.257,
+    "locationAccuracy": "approximate - Rath Road area; exact venue entrance not independently confirmed"
+  },
+  {
+    "id": "sudor-sauna-castle-ward",
+    "name": "Sudor Sauna - Castle Ward",
+    "address": "Castle Ward Estate, Strangford, County Down, BT30 7BA, Northern Ireland",
+    "website": "https://www.sudorsauna.co.uk/",
+    "lat": 54.373,
+    "lon": -5.577,
+    "locationAccuracy": "approximate - Castle Ward estate; operator also runs other locations; confirm session venue"
+  },
+  {
+    "id": "wild-mourne-wellness-castlewellan",
+    "name": "Wild Mourne Wellness",
+    "address": "Castlewellan Forest Park, Castlewellan, County Down, BT31 9BU, Northern Ireland",
+    "website": "https://www.visitmournegullionstrangford.com/things-to-do/wild-mourne-wellness-p968571",
+    "bookingUrl": "https://wunderbook.link/WildMourn",
+    "lat": 54.259,
+    "lon": -5.952,
+    "locationAccuracy": "approximate - mobile sauna; verify current location and session before travelling"
+  },
+  {
+    "id": "a-scenic-sauna-ballygally",
+    "name": "A Scenic Sauna",
+    "address": "Ballygally, County Antrim, Northern Ireland",
+    "website": "https://daysoutni.com/a-scenic-sauna-ballygally/",
+    "lat": 54.898,
+    "lon": -5.859,
+    "locationAccuracy": "approximate - seasonal mobile sauna; check current session location via operator"
+  },
+  {
+    "id": "selkies-hearth-portmuck",
+    "name": "The Selkies’ Hearth",
+    "address": "Portmuck Harbour, Islandmagee, County Antrim, BT40 3TP, Northern Ireland",
+    "website": "",
+    "lat": 54.804,
+    "lon": -5.701,
+    "locationAccuracy": "approximate - Portmuck Harbour area; confirm active sessions and booking with operator"
   }
 ]
