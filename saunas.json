@@ -770,5 +770,15 @@
     "lon": -7.991,
     "locationAccuracy": "approximate - Distillery Yard",
     "bookingUrl": "https://thesweatyyeti.ie/book"
+  },
+  {
+    "id": "the-sweaty-sanctuary-inch-beach",
+    "name": "The Sweaty Sanctuary Sauna",
+    "address": "Inch Beach East, Whitegate, County Cork, Ireland",
+    "website": "https://thesweatysanctuarysauna.as.me/",
+    "bookingUrl": "https://app.acuityscheduling.com/schedule/de6ece25",
+    "lat": 51.7951875,
+    "lon": -8.1790625,
+    "locationAccuracy": "approximate - Inch Beach; exact sauna position not independently confirmed"
   }
 ]
