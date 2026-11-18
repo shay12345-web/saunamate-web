@@ -740,5 +740,35 @@
     "lat": 51.9215,
     "lon": -7.8681,
     "locationAccuracy": "approximate"
+  },
+  {
+    "id": "an-ghrian-sauna",
+    "name": "An Ghrian Sauna",
+    "address": "An Grianán, Newtown, Termonfeckin, County Louth, A92 D624, Ireland",
+    "website": "https://www.anghriansauna.ie/",
+    "lat": 53.75527,
+    "lon": -6.26485,
+    "locationAccuracy": "venue grounds (not sauna entrance)",
+    "bookingUrl": "https://www.anghriansauna.ie/appointments"
+  },
+  {
+    "id": "cocoon-sauna",
+    "name": "Cocoon Sauna",
+    "address": "Portnablagh Pier, Dunfanaghy, County Donegal, Ireland",
+    "website": "https://www.cocoonsauna.ie/",
+    "lat": 55.18,
+    "lon": -7.956,
+    "locationAccuracy": "approximate - Portnablagh Pier",
+    "bookingUrl": "https://www.cocoonsauna.ie/services"
+  },
+  {
+    "id": "the-sweaty-yeti-sauna",
+    "name": "The Sweaty Yeti Sauna",
+    "address": "The Distillery Yard, Lanesborough, County Longford, N39 C3V8, Ireland",
+    "website": "https://thesweatyyeti.ie/",
+    "lat": 53.675,
+    "lon": -7.991,
+    "locationAccuracy": "approximate - Distillery Yard",
+    "bookingUrl": "https://thesweatyyeti.ie/book"
   }
 ]
