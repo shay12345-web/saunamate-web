@@ -299,3 +299,14 @@ details.directory-details > summary::-webkit-details-marker {
   box-sizing: border-box !important;
   z-index: 5 !important;
 }
+/* Nearby sauna discovery and clear map actions */
+.map-actions{display:flex;flex-wrap:wrap;gap:10px;justify-content:flex-end}
+.near-me-button{background:#075c46;color:#fff;border:2px solid #d4b783;border-radius:10px;padding:11px 17px;font:inherit;font-weight:800;cursor:pointer}
+.near-me-button:hover,.near-me-button:focus-visible{background:#034735}
+.near-me-button:disabled{opacity:.65;cursor:wait}
+.location-status{min-height:1.4em;color:#e9d4a9;font-size:14px;margin:9px 0}
+.popup-actions{display:flex;gap:8px;flex-wrap:wrap;margin-top:12px}
+.popup-actions a{display:inline-block;padding:8px 10px;border-radius:7px;background:#075c46;color:#fff!important;text-decoration:none;font-size:13px;font-weight:750}
+.popup-actions a:hover{background:#034735}
+.popup-actions a.popup-directions{background:#e5bb80;color:#17271d!important}
+@media(max-width:700px){.map-toolbar{display:block}.map-actions{justify-content:flex-start;margin-top:12px}.map-actions button{flex:1 1 150px}.near-me-button{min-height:46px}}
