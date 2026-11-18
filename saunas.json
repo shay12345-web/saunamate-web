@@ -710,5 +710,25 @@
     "lat": 52.413003,
     "lon": -6.429695,
     "locationAccuracy": "approximate"
+  },
+  {
+    "id": "inishkeel-sauna-narin",
+    "name": "Inishkeel Sauna",
+    "address": "Narin Strand, Portnoo, County Donegal, Ireland",
+    "website": "https://www.inishkeelsauna.ie/",
+    "bookingUrl": "https://www.inishkeelsauna.ie/appointments",
+    "lat": 54.838761,
+    "lon": -8.447977,
+    "locationAccuracy": "reported"
+  },
+  {
+    "id": "happy-place-saunas-fountainstown",
+    "name": "Happy Place Saunas",
+    "address": "Fountainstown Beach, County Cork, Ireland",
+    "website": "https://happyplacesaunas.ie/",
+    "bookingUrl": "https://happyplacesaunas.ie/book-now/",
+    "lat": 51.7747,
+    "lon": -8.3105,
+    "locationAccuracy": "approximate"
   }
 ]
