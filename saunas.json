@@ -907,5 +907,15 @@
     "lat": 54.804,
     "lon": -5.701,
     "locationAccuracy": "approximate - Portmuck Harbour area; confirm active sessions and booking with operator"
+  },
+  {
+    "id": "shamrock-saunas-newcastle-wicklow",
+    "name": "Shamrock Saunas",
+    "address": "Newcastle Road, Newcastle Middle, Newcastle, County Wicklow, A63 Y673, Ireland",
+    "website": "https://www.instagram.com/shamrocksaunas/",
+    "bookingUrl": "https://www.instagram.com/shamrocksaunas/",
+    "lat": 53.07,
+    "lon": -6.085,
+    "locationAccuracy": "approximate - Newcastle village area; exact venue coordinates require confirmation"
   }
 ]
