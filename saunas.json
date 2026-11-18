@@ -730,5 +730,15 @@
     "lat": 51.7747,
     "lon": -8.3105,
     "locationAccuracy": "approximate"
+  },
+  {
+    "id": "my-hot-spot-youghal",
+    "name": "My Hot Spot",
+    "address": "Redbarn Strand, Youghal, County Cork, Ireland",
+    "website": "https://www.myhotspot.ie/",
+    "bookingUrl": "https://www.myhotspot.ie/",
+    "lat": 51.9215,
+    "lon": -7.8681,
+    "locationAccuracy": "approximate"
   }
 ]
