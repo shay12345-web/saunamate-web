@@ -780,5 +780,85 @@
     "lat": 51.7951875,
     "lon": -8.1790625,
     "locationAccuracy": "approximate - Inch Beach; exact sauna position not independently confirmed"
+  },
+  {
+    "id": "niche-coastal-ballycastle",
+    "name": "Niche Coastal",
+    "address": "Ballycastle Beach, Ballycastle, County Antrim, BT54 6QP, Northern Ireland",
+    "website": "https://www.nichecoastal.co.uk/",
+    "bookingUrl": "https://www.nichecoastal.co.uk/bookings/",
+    "lat": 55.2047,
+    "lon": -6.2418,
+    "locationAccuracy": "approximate - town/venue area; exact entrance not independently confirmed"
+  },
+  {
+    "id": "redbarn-cavehill-belfast",
+    "name": "Redbarn Cavehill Wild Sauna",
+    "address": "Red Barn, Cavehill Cottage, Upper Cavehill Road, Belfast, County Antrim, BT15 5FB, Northern Ireland",
+    "website": "https://cavehillredbarn.com/",
+    "bookingUrl": "https://cavehillredbarn.com/",
+    "lat": 54.6325,
+    "lon": -5.948,
+    "locationAccuracy": "approximate - town/venue area; exact entrance not independently confirmed"
+  },
+  {
+    "id": "sauna-and-sea-portstewart",
+    "name": "Sauna & Sea",
+    "address": "Portstewart Strand, Portstewart, County Derry, BT55 7LY, Northern Ireland",
+    "website": "https://www.saunaandsea.co.uk/",
+    "bookingUrl": "https://www.saunaandsea.co.uk/",
+    "lat": 55.1813,
+    "lon": -6.742,
+    "locationAccuracy": "approximate - town/venue area; exact entrance not independently confirmed"
+  },
+  {
+    "id": "sweatbox-creggan-derry",
+    "name": "The Sweatbox Derry",
+    "address": "Creggan Country Park, 196 Westway, Derry, County Derry, BT48 9NU, Northern Ireland",
+    "website": "https://www.sweatboxderry.com/",
+    "bookingUrl": "https://www.sweatboxderry.com/",
+    "lat": 54.999,
+    "lon": -7.358,
+    "locationAccuracy": "approximate - town/venue area; exact entrance not independently confirmed"
+  },
+  {
+    "id": "thermal-garden-derry",
+    "name": "Thermal Garden",
+    "address": "Bay Road, Derry, County Derry, Northern Ireland",
+    "website": "https://thermalgarden.com/",
+    "bookingUrl": "https://thermalgarden.com/",
+    "lat": 55.01,
+    "lon": -7.321,
+    "locationAccuracy": "approximate - town/venue area; exact entrance not independently confirmed"
+  },
+  {
+    "id": "revive-saunas-rostrevor",
+    "name": "Revive Saunas",
+    "address": "34 Lower Knockbarragh Road, Rostrevor, County Down, BT34 3DP, Northern Ireland",
+    "website": "https://revivesaunas.co.uk/",
+    "bookingUrl": "https://revivesaunas.co.uk/",
+    "lat": 54.112,
+    "lon": -6.188,
+    "locationAccuracy": "approximate - town/venue area; exact entrance not independently confirmed"
+  },
+  {
+    "id": "sauna-ice-balance-newcastle",
+    "name": "Sauna Ice Balance",
+    "address": "Unit 6 Central Promenade, Newcastle, County Down, BT33 0AA, Northern Ireland",
+    "website": "https://saunaicebalance.co.uk/",
+    "bookingUrl": "https://saunaicebalance.co.uk/",
+    "lat": 54.2104,
+    "lon": -5.8912,
+    "locationAccuracy": "approximate - town/venue area; exact entrance not independently confirmed"
+  },
+  {
+    "id": "glo-sauna-enniskillen",
+    "name": "Glö Sauna",
+    "address": "Stuart’s Car Park, Sligo Road, Enniskillen, County Fermanagh, Northern Ireland",
+    "website": "https://booking.page/en/company/page/glosauna",
+    "bookingUrl": "https://booking.page/en/company/page/glosauna",
+    "lat": 54.34,
+    "lon": -7.644,
+    "locationAccuracy": "approximate - town/venue area; exact entrance not independently confirmed"
   }
 ]
